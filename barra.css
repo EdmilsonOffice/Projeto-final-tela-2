@@ -1,0 +1,25 @@
+.barra {
+    background-color: #00005a;
+    position: relative;
+    margin: 15px;
+    border: 5px solid black;
+    width: 350px;
+    height: 1250px;
+    text-align: center;
+    
+  }
+  .img-barra {
+    width: 290px;
+    height: 250px;
+    margin: 10px;
+  }
+
+.card-barra {
+    width: 250px;
+    height: 300px;
+}
+
+.text-barra {
+    font-size: 25px;
+    color: rgb(250, 250, 255);
+}
